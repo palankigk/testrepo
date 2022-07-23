@@ -10,7 +10,7 @@ jobs:
     env:
       BUCKET: backup-bucket75368
       DIST: build
-      REGION: us-east-1
+      REGION: ap-south-1
       DIST_ID: EGS2C6C8Z5LRQ
 
     steps:
