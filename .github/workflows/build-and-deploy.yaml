@@ -8,10 +8,10 @@ jobs:
     name: Build and Deploy
     runs-on: ubuntu-latest
     env:
-      BUCKET: <bucket-name>
+      BUCKET: backup-bucket75368
       DIST: build
       REGION: us-east-1
-      DIST_ID: <ID>
+      DIST_ID: EGS2C6C8Z5LRQ
 
     steps:
     - name: Checkout
